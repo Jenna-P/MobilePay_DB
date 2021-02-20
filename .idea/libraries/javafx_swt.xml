@@ -9,6 +9,7 @@
       <root url="jar://$USER_HOME$/javafx-sdk-15.0.1/lib/javafx.web.jar!/" />
       <root url="jar://$USER_HOME$/javafx-sdk-15.0.1/lib/javafx.swing.jar!/" />
       <root url="jar://$USER_HOME$/javafx-sdk-15.0.1/lib/javafx.media.jar!/" />
+      <root url="jar://$USER_HOME$/sqlite-jdbc-3.32.3.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
