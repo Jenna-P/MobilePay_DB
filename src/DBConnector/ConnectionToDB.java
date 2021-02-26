@@ -1,3 +1,5 @@
+package DBConnector;
+
 import java.sql.*;
 
 public class ConnectionToDB {
@@ -68,7 +70,6 @@ public class ConnectionToDB {
             }
         }
     }
-
     public static void main(String[] args) {
         connect();
     }
